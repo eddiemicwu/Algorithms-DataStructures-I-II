@@ -1,5 +1,5 @@
 # Algorithms-DataStructures-I and II
-CSC 225 A1: ConvexHull, user can insert points and the program will generate convexHull. You can check if the point is inside the Hull or Not. Clone the Repository and compile the HullViewer225.java to run the program.
+"CSC 225 A1:" ConvexHull, user can insert points and the program will generate convexHull. You can check if the point is inside the Hull or Not. Clone the Repository and compile the HullViewer225.java to run the program.
 
 
 CSC 225 A2: Huffman, impelemented a Decoder and Encoder using huffman. Clone the Repository and compile both HullDecoder.java and HullEncoder.java. Then run the program follow by the file you want to decode/encode.
